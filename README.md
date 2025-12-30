@@ -40,6 +40,8 @@ node src/main.js
 終了する場合は以下を入力します。
 exit
 
+```
+
 ### ⑧ Notes / Limitations（注意点）
 
 ```md
