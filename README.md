@@ -42,9 +42,8 @@ exit
 
 ```
 
-### ⑧ Notes / Limitations（注意点）
+### Notes / Limitations（注意点）
 
-```md
 ## Notes
 
 - このツールは OpenRouter の無料モデルを使用しています
